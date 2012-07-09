@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="7797C029-0F56-4FD8-81DA-0914D3E69068" ModuleId="CodingDojo_Models" />
+  <Module PersistentId="108F116F-5712-415F-9073-64E1BCF1E4C6" ModuleId="CodingDojo_BLL" />
+  <Module PersistentId="F3AFD050-F20E-4D46-81FE-485A6CBBD470" ModuleId="CodingDojo_DAL" />
+  <Module PersistentId="5991A30E-504E-4C9D-9957-890275AEF6CC" ModuleId="CodingDojo_UI" />
+</Modules>

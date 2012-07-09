@@ -1,0 +1,103 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7797C029-0F56-4FD8-81DA-0914D3E69068/f:Produto.cs" caret="274" fromTop="11" />
+      <File id="F3AFD050-F20E-4D46-81FE-485A6CBBD470/f:ProdutoDal.cs" caret="766" fromTop="27" />
+      <File id="7797C029-0F56-4FD8-81DA-0914D3E69068/f:IProduto.cs" caret="169" fromTop="9" />
+      <File id="108F116F-5712-415F-9073-64E1BCF1E4C6/f:ProdutoBll.cs" caret="230" fromTop="11" />
+      <File id="5991A30E-504E-4C9D-9957-890275AEF6CC/f:CadastroDeProdutos.cs" caret="501" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7797C029-0F56-4FD8-81DA-0914D3E69068/f:IProduto.cs" caret="0" fromTop="0" />
+      <File id="108F116F-5712-415F-9073-64E1BCF1E4C6/f:ProdutoBll.cs" caret="476" fromTop="21" />
+      <File id="F3AFD050-F20E-4D46-81FE-485A6CBBD470/f:ProdutoDal.cs" caret="0" fromTop="0" />
+      <File id="108F116F-5712-415F-9073-64E1BCF1E4C6/f:ProdutoBll.cs" caret="688" fromTop="29" />
+      <File id="7797C029-0F56-4FD8-81DA-0914D3E69068/f:Produto.cs" caret="274" fromTop="11" />
+      <File id="F3AFD050-F20E-4D46-81FE-485A6CBBD470/f:ProdutoDal.cs" caret="906" fromTop="24" />
+      <File id="F3AFD050-F20E-4D46-81FE-485A6CBBD470/f:ProdutoDal.cs" caret="306" fromTop="14" />
+      <File id="F3AFD050-F20E-4D46-81FE-485A6CBBD470/f:ProdutoDal.cs" caret="445" fromTop="16" />
+      <File id="F3AFD050-F20E-4D46-81FE-485A6CBBD470/f:ProdutoDal.cs" caret="645" fromTop="22" />
+      <File id="F3AFD050-F20E-4D46-81FE-485A6CBBD470/f:ProdutoDal.cs" caret="906" fromTop="32" />
+      <File id="F3AFD050-F20E-4D46-81FE-485A6CBBD470/f:ProdutoDal.cs" caret="891" fromTop="32" />
+      <File id="7797C029-0F56-4FD8-81DA-0914D3E69068/f:IProduto.cs" caret="211" fromTop="9" />
+      <File id="5991A30E-504E-4C9D-9957-890275AEF6CC/f:CadastroDeProdutos.cs" caret="749" fromTop="31" />
+      <File id="108F116F-5712-415F-9073-64E1BCF1E4C6/f:ProdutoBll.cs" caret="230" fromTop="11" />
+      <File id="5991A30E-504E-4C9D-9957-890275AEF6CC/f:CadastroDeProdutos.cs" caret="724" fromTop="28" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="prop" priority="2" />
+      <Item value="string" priority="3" />
+      <Item value="bool" priority="1" />
+      <Item value="Produto`0" priority="1" />
+      <Item value="if" priority="1" />
+      <Item value="produto" priority="8" />
+      <Item value="return" priority="2" />
+      <Item value="false" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="Validar`0" priority="0" />
+      <Item value="produtoDal" priority="0" />
+      <Item value="new" priority="3" />
+      <Item value="ProdutoDal" priority="0" />
+      <Item value="connection" priority="3" />
+      <Item value="SqlConnection" priority="0" />
+      <Item value="SqlCommand`0" priority="0" />
+      <Item value="command" priority="1" />
+      <Item value="SqlCommand" priority="0" />
+      <Item value="sql" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="Produto" priority="0" />
+      <Item value="txtNome" priority="0" />
+      <Item value="txtDesc" priority="0" />
+      <Item value="produtoBll" priority="1" />
+      <Item value="ProdutoBll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodingDojo_Models.Produto">
+      <Item value="Nome" priority="2" />
+      <Item value="Descrição" priority="0" />
+      <Item value="Descricao" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodingDojo_DAL.ProdutoDal">
+      <Item value="Salvar`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Open`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteNonQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodingDojo_BLL.ProdutoBll">
+      <Item value="Salvar`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
