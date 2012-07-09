@@ -15,7 +15,7 @@ namespace CodingDojo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormCadastro());
+            Application.Run(new ListaDeProdutos());
         }
     }
 }

@@ -32,5 +32,35 @@ namespace CodingDojo_BLL
 
             return true;
         }
+
+        public List<Produto> ListarTodos()
+        {
+            ProdutoDal produtoDal = new ProdutoDal();
+            return produtoDal.ListarTodos();
+            
+        }
+
+        public List<Produto> ListarProduto(string nome)
+        {
+            ProdutoDal produtoDal = new ProdutoDal();
+            return produtoDal.ListarProduto(nome);
+        }
+
+        public bool Exluir(Produto produto)
+        {
+            ProdutoDal produtoDal = new ProdutoDal();
+            return produtoDal.Exluir(produto);
+        }
+
+        public bool Alterar(Produto produto)
+        {
+            ProdutoDal produtoDal = new ProdutoDal();
+            if (Validar(produto))
+                return produtoDal.Alterar(produto);
+            else
+            {
+                return false;
+            }
+        }
     }
 }

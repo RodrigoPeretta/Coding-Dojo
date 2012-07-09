@@ -52,10 +52,19 @@
     <Compile Include="CadastroDeProdutos.Designer.cs">
       <DependentUpon>CadastroDeProdutos.cs</DependentUpon>
     </Compile>
+    <Compile Include="ListaDeProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaDeProdutos.Designer.cs">
+      <DependentUpon>ListaDeProdutos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CadastroDeProdutos.resx">
       <DependentUpon>CadastroDeProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaDeProdutos.resx">
+      <DependentUpon>ListaDeProdutos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
